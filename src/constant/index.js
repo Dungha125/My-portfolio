@@ -159,7 +159,7 @@ export const collabContent = [
   },
   {
     id: "1",
-    title: "Grarphic Design",
+    title: "Graphic Design",
     text: collabText,
   },
 ];
