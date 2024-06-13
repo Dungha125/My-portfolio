@@ -4,6 +4,7 @@ import Education from "./components/Education";
 import Headers from "./components/Headers";
 import Hero from "./components/Hero";
 import Project from "./components/Project";
+import Skills from "./components/Skills";
 const App = () => {
   return (
     <>
@@ -11,6 +12,7 @@ const App = () => {
         <Headers></Headers>
         <Hero />
         <Project />
+        <Skills />
         <Education />
         <Contacttome />
       </div>

@@ -38,6 +38,10 @@ import anh2 from "./services/anh2.png";
 import anh3 from "./services/anh3.png";
 import gra from "./gra.png";
 import graflip from "./graflip.png";
+import illutrator from "./collaboration/illutrator.png";
+import premiere from "./collaboration/premiere.png";
+import tailwind from "./collaboration/tailwind.png";
+import jslogo from "./collaboration/jslogo.png";
 
 import curve from "./hero/curve.png";
 import robot from "./hero/robot.jpg";
@@ -105,6 +109,10 @@ export {
   line,
   logoptit,
   logohuulung,
+  illutrator,
+  premiere,
+  tailwind,
+  jslogo,
   anh1,
   anh2,
   anh3,

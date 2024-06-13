@@ -8,7 +8,6 @@ import { useRef } from "react";
 import Generating from "./Generating";
 import Notification from "./Notification";
 import { Link, Element } from "react-scroll";
-import Contact from "./Contact";
 const Hero = () => {
   const parallaxRef = useRef(null);
   return (

@@ -6,7 +6,6 @@ import Arrow from "../assets/svg/Arrow";
 import { GradientLight } from "./design/Benefits";
 import ClipPath from "../assets/svg/ClipPath";
 import { anh1, anh2, anh3, gra, gradient, graflip } from "../assets";
-import { Gradient } from "./design/Hero";
 const Education = () => {
   return (
     <Element name="Project">
