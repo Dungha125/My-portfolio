@@ -63,8 +63,8 @@ export const navigation = [
   },
   {
     id: "5",
-    title: "Sign in",
-    url: "#login",
+    title: "I'm Dungha",
+    url: "main",
     onlyMobile: true,
   },
 ];
